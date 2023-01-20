@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems and i read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AymaneJarmoune-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ayman-jarmoune/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AymaneJarmoune-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-jarmoune/)
 
 ---
 
