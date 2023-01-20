@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aymane Jarmoune</h1>
 <h3 align="center">A passionate FullStuck developer from Morocco</h3>
 <div id="badges" align="center" >
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ayman-jarmoune/)">
+  <a href="https://www.linkedin.com/in/ayman-jarmoune/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCwg4o0foTyuxJE_kE8byFSA)">
+  <a href="https://www.youtube.com/channel/UCwg4o0foTyuxJE_kE8byFSA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
